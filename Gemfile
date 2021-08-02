@@ -6,7 +6,7 @@ gem "httparty",      "0.10.0"
 gem "json",          "~> 2.3.0"
 gem "mash",          "~> 0.1.1"
 gem "mime-types",    "1.15", :require => 'mime/types'
-gem "oauth",         "0.4.4"
+gem "oauth",         "0.5.5"
 gem "sinatra",       "~> 1.1.2"
 gem "tilt",          "~> 1.2.1"
 gem "tinder",        "1.3.1"
